@@ -1,6 +1,6 @@
 # shop_app
 
-A work in progress E-commerce app.
+A work-in-progress E-commerce app.
 
 ## Getting Started
 
